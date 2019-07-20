@@ -1,6 +1,9 @@
 # FileView
 Simple library to show large files using Jetpack Paging Library
 
+<img src=https://user-images.githubusercontent.com/3678050/61577487-8dd61000-aaf0-11e9-91a2-f341d0324894.png width="175" height="300">
+
+
 ## **how to use**
 
 in code 
