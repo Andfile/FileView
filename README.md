@@ -8,11 +8,11 @@ Simple library to show large files using Jetpack Paging Library
 
 in code 
 ```
-        fileView = findViewById(R.id.fileview)
-        fileView.setFilename("/path/to/file")
-                .setLayoutRes(R.layout.fileview_item)
-                .setPageSize(50)
-                .scrollTop()
+    fileView = findViewById(R.id.fileview)
+    fileView.setFilename("/path/to/file")
+        .setLayoutRes(R.layout.fileview_item)
+        .setPageSize(50)
+        .scrollTop()
       
 ```
 in xml 
